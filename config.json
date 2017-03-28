@@ -1,5 +1,5 @@
 ﻿{
-    "connectionString": "mongodb://heroku_zbp0vtxj:heroku_zbp0vtxj@ds055822.mlab.com:55822/heroku_zbp0vtxj",
+    "connectionString": "mongodb://jas:jas@ds055822.mlab.com:55822/heroku_zbp0vtxj",
     "apiUrl": "https://mean-stack-jas.herokuapp.com/api",
     "secret": "anystring"
 }
